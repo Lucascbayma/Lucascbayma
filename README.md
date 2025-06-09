@@ -5,7 +5,7 @@
 - 🎓 Studing Computer Science on [Cesar School](https://github.com/Abduzidos)
 - 🤓 I'm currently learning `Python`, `JavaScript`, `HTML`, `CSS` and `Arduino`
 - ⚡ Always trying to improve **Hard** and **Soft** Skills
-- 🔎 Interested in **_Cybersecurity_**, **_Fullstack_**, **_Data base_** and **_Game Development_**
+- 🔎 Interested in **_Cybersecurity_**, **_Fullstack_** and **_Game Development_**
 
 ## How to reach me 👤
 
