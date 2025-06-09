@@ -5,12 +5,12 @@
 - 🎓 Studing Computer Science on [Cesar School](https://github.com/Abduzidos)
 - 🤓 I'm currently learning `Python`, `JavaScript`, `HTML`, `CSS` and `Arduino`
 - ⚡ Always trying to improve **Hard** and **Soft** Skills
-- 🔎 Interested in **_Cybersecurity_**, **_Fullstack_**, **_Data_** and **_Game Development_**
+- 🔎 Interested in **_Cybersecurity_**, **_Fullstack_**, **_Data base_** and **_Game Development_**
 
 ## How to reach me 👤
 
-[![Linkedin](https://img.shields.io/badge/-Lucascbayma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Lucascbayma/)
-[![Gmail Badge](https://img.shields.io/badge/-Lucasbayma31-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Lucasbayma31@gmail.com)](mailto:Lucasbayma31@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Lucascbayma/)
+[![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Lucasbayma31@gmail.com)](mailto:Lucasbayma31@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/lucascbayma?label=follow&style=social)]([https://github.com/Lucascbayma](https://github.com/Lucascbayma))
 
 ## My skills
