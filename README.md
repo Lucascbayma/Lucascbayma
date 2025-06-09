@@ -9,8 +9,8 @@
 
 ## How to reach me 👤
 
-[![Linkedin](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Lucascbayma/)
-[![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Lucasbayma31@gmail.com)](mailto:Lucasbayma31@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Lucascbayma/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Lucasbayma31@gmail.com)](mailto:Lucasbayma31@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/lucascbayma?label=follow&style=social)]([https://github.com/Lucascbayma](https://github.com/Lucascbayma))
 
 ## My skills
