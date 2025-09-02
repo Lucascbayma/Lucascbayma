@@ -3,7 +3,7 @@
 
 ## About me
 - 🎓 Studing Computer Science on [Cesar School](https://github.com/Abduzidos)
-- 🤓 I'm currently learning `Python`, `JavaScript`, `HTML`, `CSS` and `Arduino`
+- 🤓 I'm currently learning `C`, `Django` and `Cloud Computing`
 - ⚡ Always trying to improve **Hard** and **Soft** Skills
 - 🔎 Interested in **_Cybersecurity_**, **_Fullstack_** and **_Game Development_**
 
@@ -21,6 +21,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
 
 - **Development tools**
 
