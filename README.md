@@ -2,7 +2,7 @@
 </h1>
 
 ## About me
-- 🎓 Studing Computer Science on [Cesar School](https://github.com/Abduzidos)
+- 🎓 Studing Computer Science at [Cesar School](https://github.com/Abduzidos)
 - 🤓 I'm currently learning `Java`, `PHP` and `Cloud Computing`
 - ⚡ Always improving my **Hard** and **Soft** Skills
 - 🔎 Interested in **_Cybersecurity_** and **_Fullstack development_**
